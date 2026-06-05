@@ -3,12 +3,16 @@
 ## Project Overview
 This Tableau dashboard analyzes Shark Tank India startup investments and funding patterns.
 
+## Dashboard Preview
+
+![Dashboard](sharkTank.png)
+
 ## Key Insights
-- Industry-wise total investments
-- Season-wise deal analysis
-- Top funded startups
-- Deal status distribution
-- Equity trends across startups
+- Industry-wise Total Investment
+- Season-wise Deal Analysis
+- Top Funded Startups
+- Deal Status Distribution
+- Equity vs Investment Analysis
 
 ## Tools Used
 - Tableau
@@ -16,8 +20,7 @@ This Tableau dashboard analyzes Shark Tank India startup investments and funding
 
 ## Files
 - SharkTank_dashboard.twb
-- Dashboard screenshots
-- Dashboard report (if applicable)
+- sharkTank.png
 
 ## Author
 Ishita Awasthi
